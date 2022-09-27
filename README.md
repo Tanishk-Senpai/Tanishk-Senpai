@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanishk-Senpai
-- 👀 I’m interested in AI, Machine Learning, Coding, Anime, Games,etc.
+- 👀 I’m interested in Coding, Chemistry, Anime, Games,etc.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - tanishksingh832@gmail.com
 
