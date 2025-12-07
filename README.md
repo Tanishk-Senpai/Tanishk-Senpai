@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanishk-Senpai
+- 👋 Hi, I’m @Tanishk
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - tanishksingh832@gmail.com
 
