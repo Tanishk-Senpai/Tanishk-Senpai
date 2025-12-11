@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanishk
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development and Embedded Systems 
 - 📫 How to reach me - tanishksingh832@gmail.com
 
 <!---
